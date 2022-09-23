@@ -29,6 +29,7 @@ Config files for my GitHub profile.
 
 ##
 <img align="right" src="https://komarev.com/ghpvc/?username=lakshyaagr1105">
+
 <!--
 *lakshyaagr1105/lakshyaagr1105* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
