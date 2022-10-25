@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshyaagr1105&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyaagr1105" /> </p>
 
 <p align="left"> <a href="https://twitter.com/lakshya1105" target="blank"><img src="https://img.shields.io/twitter/follow/lakshya1105?logo=twitter&style=for-the-badge" alt="lakshya1105" /></a> </p>
-<img align="right" alt="Coding" width="500" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 - 🔭 I’m currently working on **REACT projects**
 
 - 🌱 I’m currently learning **REACT, Python**
